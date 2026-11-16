@@ -20,5 +20,9 @@
 
 [动画资源指南](academic-presentation-skill/references/animation-library.md)包含原仓参考静帧、组件索引与素材适用场景。16 组 SVG／PNG 组件和 5 张获准免费转发的原版 JPEG 已随仓库提供，离线即可打开。参考静帧用于观察构图，原生逐击效果需在 PowerPoint 或兼容的制作工具中实现。
 
+按中英文关键词查找 18 个用法，见[动画关键词索引](academic-presentation-skill/references/animation-keywords.csv)。也可以直接选一份带虚构数据和静态备用方案的完整分镜：[条件分支](academic-presentation-skill/examples/animation/branch-and-handoff.md)、[消融对比](academic-presentation-skill/examples/animation/same-scale-ablation.md)、[证据定位](academic-presentation-skill/examples/animation/evidence-localization.md)。
+
+> 动画试跑：请读动画资源指南。在关键词索引里查「条件分支」「消融」「证据」，分别打开命中的分镜和虚构试跑数据。检查首态、每次点击的变化和静态终态。使用已有演示文稿工具时输出可编辑的试跑稿，并说明实际测试的是模拟点击、静态渲染，还是 PowerPoint／WPS 原生放映。
+
 - [fy-code-animation · 固定版本](https://github.com/Akillll-DuoHe/fy-code-animation/tree/d9a545afa393b2ffab4f36e87371691daf8e502c) 提供分镜、动作和验收方法参考。
 - [code-animation-prompts · 固定版本](https://github.com/XiaoyeCodes/code-animation-prompts/tree/2e6396abb45c2d183e91bc5a6583597411860217) 提供风格与静帧参考。原素材整理者为俯仰观照，仓库封装由 XiaoyeCodes 维护。转发参考图时保留[来源和许可说明](academic-presentation-skill/assets/animation/reference-stills/SOURCES.md)。
