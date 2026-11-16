@@ -4,9 +4,11 @@
 
 ## 第一次试用
 
-在 Codex 粘贴下面这段。
+在 Codex 打开解压后能看到本 README 和 `academic-presentation-skill/` 的目录，粘贴这一句。
 
-> 请读取 `academic-presentation-skill/SKILL.md`，按相关引用执行。先用 `academic-presentation-skill/examples/fictional-pilot.md` 做一次学术汇报试跑。给我 3–4 页逐页方案、证据出处和中文讲者备注。用环境已有的演示文稿工具制作可编辑 PPTX（如可用），把样本数和适用范围留在结果页；有原生动画能力时做一个逐击揭示，否则用可读的静态版。为这一页选一个包内 SVG／PNG 组件，在计划或成品中用到它并写明文件路径。若生成了文件，请给出路径，并说明实际完成的检查。没有可用制作工具时，直接交付逐页方案和讲稿。
+> 请使用 `academic-presentation-skill/SKILL.md`。
+
+初次启动时，选「引导式试用」就用包内虚构案例，选「直接开始」就接着提供自己的材料和任务。选择记录只保存在本地试用包里。在 Codex 的新聊天中继续打开同一个可写目录，即可跳过开场选择。随时可以说「重新看引导」，再次使用虚构案例。
 
 ## 用于自己的论文或已有 PPT
 
