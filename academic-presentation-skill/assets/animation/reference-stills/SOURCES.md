@@ -1,0 +1,21 @@
+# 参考静帧来源和许可
+
+原素材整理者为 [俯仰观照](https://space.bilibili.com/3690990015613855/)，技能封装和仓库维护为 [XiaoyeCodes](https://github.com/XiaoyeCodes)。下方链接均定位到固定版本，包内 JPEG 保留上游原始字节。
+
+| 风格 | 观察点 | 本地提供方式 | 上游文件 |
+| --- | --- | --- | --- |
+| F1 图表生长 | 图表首态的坐标与标签 | [包内原版 JPEG](F1.jpg) | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F1_%E5%9B%BE%E8%A1%A8%E7%94%9F%E9%95%BF.jpg) |
+| F2 关系图 | 稳定节点与定向关系 | [包内原版 JPEG](F2.jpg) | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F2_%E5%85%B3%E7%B3%BB%E5%9B%BE.jpg) |
+| F3 分屏对比 | 共同版面上的并排对照 | [包内原版 JPEG](F3.jpg) | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/F3_%E5%88%86%E5%B1%8F%E5%AF%B9%E6%AF%94.jpg) |
+| M1 白板手绘讲解 | 浅底与单一强调色 | 查看上游 | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/M_%E5%8A%A8%E6%80%81%E9%A3%8E%E6%A0%BC/M1_%E7%99%BD%E6%9D%BF%E6%89%8B%E7%BB%98%E8%AE%B2%E8%A7%A3.jpg) |
+| L10 工程方案比较墙 | 比较、依据与判定同框 | 查看上游 | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/L_Lemo-Opuscar/L10_%E5%B7%A5%E7%A8%8B%E6%96%B9%E6%A1%88%E6%AF%94%E8%BE%83%E5%A2%99.jpg) |
+| L14 爆炸图拆解 | 部件关系与局部拆解 | 查看上游 | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/L_Lemo-Opuscar/L14_%E7%88%86%E7%82%B8%E5%9B%BE%E6%8B%86%E8%A7%A3.jpg) |
+| L36 蓝图 / 工程制图 | 线型语义与标注层级 | 查看上游 | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/L_Lemo-Opuscar/L36_%E8%93%9D%E5%9B%BE%20%C2%B7%20%E5%B7%A5%E7%A8%8B%E5%88%B6%E5%9B%BE.jpg) |
+| L40 数据叙事 | 数据图与就近说明 | 查看上游 | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/L_Lemo-Opuscar/L40_%E6%95%B0%E6%8D%AE%E5%8F%99%E4%BA%8B.jpg) |
+| H1 Biennale Yellow | 章节排版与色彩层级 | 查看上游 | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/H_%E7%8E%B0%E6%88%90%E7%89%88%E5%BC%8F/H1_Biennale%20Yellow.jpg) |
+| E1 极简几何 | 极简轮廓与留白 | [包内原版 JPEG](E1.jpg) | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/E1_%E6%9E%81%E7%AE%80%E5%87%A0%E4%BD%95.jpg) |
+| B3 粒子聚形 | 形态变化之间的停顿 | [包内原版 JPEG](B3.jpg) | [原图](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E9%A3%8E%E6%A0%BC%E6%8F%90%E7%A4%BA%E8%AF%8D/A-G_%E4%BB%A3%E7%A0%81%E6%A0%B7%E7%89%87/B3_%E7%B2%92%E5%AD%90%E8%81%9A%E5%BD%A2.jpg) |
+
+## 转发和使用
+
+A–G 系列的许可来源文件明确包括其静帧。本包收录 B3、E1 和 F1 至 F3。原作者允许免费使用和免费转发，转发时保留署名和许可，禁止包装成收费课程、付费 Skill 或其他收费产品。M1、H1 与 L 系列提供上游链接。Lemo-Opuscar 的 MIT 提示词许可与具体静帧的归属需分别核对。 [上游许可与署名](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/LICENSE.md) · [原整理者的归属说明](https://github.com/XiaoyeCodes/code-animation-prompts/blob/2e6396abb45c2d183e91bc5a6583597411860217/skills/code-animation-prompts/assets/library/%E8%AE%B8%E5%8F%AF%E4%B8%8E%E6%9D%A5%E6%BA%90.md)

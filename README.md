@@ -1,0 +1,24 @@
+# 学术 PPT Skill · Codex 试用包（含动画素材）
+
+下载或克隆这个公开仓库，用 Codex 打开下载目录。保留 `academic-presentation-skill/` 整个目录，里面的 `SKILL.md` 是入口，参考说明按相对路径读取。直接读取即可使用这套工作流程。
+
+## 第一次试用
+
+在 Codex 粘贴下面这段。
+
+> 请读取 `academic-presentation-skill/SKILL.md`，按相关引用执行。先用 `academic-presentation-skill/examples/fictional-pilot.md` 做一次学术汇报试跑。给我 3–4 页逐页方案、证据出处和中文讲者备注。用环境已有的演示文稿工具制作可编辑 PPTX（如可用），把样本数和适用范围留在结果页；有原生动画能力时做一个逐击揭示，否则用可读的静态版。为这一页选一个包内 SVG／PNG 组件，在计划或成品中用到它并写明文件路径。若生成了文件，请给出路径，并说明实际完成的检查。没有可用制作工具时，直接交付逐页方案和讲稿。
+
+## 用于自己的论文或已有 PPT
+
+把自己的论文 PDF、可用的研究笔记或 PPTX 放进 Codex 能读取的位置，发下面这段并替换方括号中的内容。
+
+> 请读取 `academic-presentation-skill/SKILL.md` 并按相关参考执行。使用我提供的 [论文 PDF／研究笔记／已有 PPTX]，为 [听众] 用 [时长] 讲清 [本次重点]。用 [语言] 编写可编辑 PPTX 和逐页讲者备注，注明实际采用的数据口径及出处。若是改稿，先核对我指定的底稿版本和受影响页面，再按本轮范围另存。目标放映软件是 [PowerPoint／WPS／暂未确定]。交付时给出文件路径和实测范围。
+
+本包提供通用工作说明、表单、虚构样例和离线动画素材。实际制作、渲染和放映验证取决于接收方环境已有的能力。可以先在当前项目按路径使用。出现问题时，反馈操作系统、Codex 使用方式、卡住的步骤和实际报错，隐去个人路径和研究材料。
+
+## 动画资源与参考项目
+
+[动画资源指南](academic-presentation-skill/references/animation-library.md)包含原仓参考静帧、组件索引与素材适用场景。16 组 SVG／PNG 组件和 5 张获准免费转发的原版 JPEG 已随仓库提供，离线即可打开。参考静帧用于观察构图，原生逐击效果需在 PowerPoint 或兼容的制作工具中实现。
+
+- [fy-code-animation · 固定版本](https://github.com/Akillll-DuoHe/fy-code-animation/tree/d9a545afa393b2ffab4f36e87371691daf8e502c) 提供分镜、动作和验收方法参考。
+- [code-animation-prompts · 固定版本](https://github.com/XiaoyeCodes/code-animation-prompts/tree/2e6396abb45c2d183e91bc5a6583597411860217) 提供风格与静帧参考。原素材整理者为俯仰观照，仓库封装由 XiaoyeCodes 维护。转发参考图时保留[来源和许可说明](academic-presentation-skill/assets/animation/reference-stills/SOURCES.md)。
